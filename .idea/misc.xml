@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_cancel.xml" value="0.2725" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_check.xml" value="0.2725" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_clear.xml" value="0.2725" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.3415" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_like.xml" value="0.2725" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_liked.xml" value="0.272" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_more.xml" value="0.2725" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.302" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_remove_red_eye.xml" value="0.2775" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_remove_red_eye_24.xml" value="0.3415" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_send.xml" value="0.2775" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_share.xml" value="0.2725" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.3415" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2985" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/drawable/netology.xml" value="0.302" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/layout/activity_main.xml" value="0.4180327868852459" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/layout/card_post.xml" value="0.3591485507246377" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/HomeWorkAnd/app/src/main/res/menu/post_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

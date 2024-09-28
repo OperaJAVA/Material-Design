@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="main_screen_message">НМедиа!</string>
+    <string name="post_menu_remove">Удалить</string>
+    <string name="post_menu_edit">Редактировать</string>
+    <string name="post_input_text_hint">Введите текст поста</string>
+    <string name="empty_post_error">Пост пустой</string>
+    <string name="edit_message">Редактирование</string>
+
+</resources>

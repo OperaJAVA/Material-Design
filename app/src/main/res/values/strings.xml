@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NMedia</string>
+    <string name="main_screen_message">NMedia!</string>
+    <string name="description_post_author_avatar" translatable="false" />
+    <!--    <string name="author">Netology. University of Internet Professions</string>-->
+    <!--    <string name="published">May 21 at 6:36 pm</string>-->
+    <string name="description_more_vert" translatable="false" />
+    <string name="description_like" translatable="false" />
+    <string name="description_liked" translatable="false" />
+    <string name="description_share" translatable="false" />
+    <string name="description_view" translatable="false" />
+    <string name="description_save" translatable="false" />
+    <string name="description_edit" translatable="false" />
+    <string name="description_cancel" translatable="false" />
+    <string name="description_bottom_line_edit" translatable="false" />
+    <string name="post_menu_remove">Remove</string>
+    <string name="post_input_text_hint">Edit Post text</string>
+    <string name="empty_post_error">Post is blank</string>
+    <string name="post_menu_edit">Edit</string>
+    <string name="edit_message">Edit Message</string>
+</resources>
